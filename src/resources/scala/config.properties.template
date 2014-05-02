@@ -1,0 +1,10 @@
+#Database
+databaseName=pubmed
+databaseUser=
+databasePassword=
+databaseHost=localhost
+databasePort=3306
+
+#Source Files
+pmcArticlesRoot=
+epmcArticlesRoot=
